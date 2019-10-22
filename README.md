@@ -1,7 +1,7 @@
 <h1>Auto Put And Break Growtopia 2019</h1>
 Created By : <a href="https://www.facebook.com/RasyidMFS"><b>RasyidMF</b></a><br>
 Youtube Channel : <b><a href="https://www.youtube.com/channel/UC4pMFaK2xg1NVlmo3I6Kvkw?view_as=subscriber">Click Here</a></b><br>
-Version : <b>4.2 <code>(Release)</code></b><br>
+Version : <b>4.3 <code>(Release)</code></b><br>
 Country : <b>Indonesia</b> (+62) <br>
 Server : <b>Active</b> <br>
 Dev : <b>RTSoft</b><br>
