@@ -1,0 +1,22 @@
+Tutorial Fix APaBG (.dll Error)
+
+1. Extract .dll file ke PC kalian.
+
+UNTUK YANG PCnya 32 bit 
+2.1 buka folder " 32 bit " yang sudah di extract 
+3.1 Sellect All dan copy semua file tsb. 
+4.1 Paste ke " C:\Windows\SysWOW64 "
+
+UNTUK yang PCnya 64 bit
+2.2 buka folder " 64 bit " 
+3.2 Sellect All dan copy semua .dll file tsb. 
+4.2 Paste ke " C:\Windows\System32 "
+
+NB : KALAU BELUM BISA LAKUKAN KEDUA CARA tsb. 
+
+
+
+
+
+
+Tutorial by logicliem

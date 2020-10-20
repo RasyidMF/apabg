@@ -1,0 +1,9 @@
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\bin\x64\Debug\RTSoftReference.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\bin\x64\Debug\RTSoftReference.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\bin\x64\Debug\RTSoftReference.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\obj\x64\Debug\RTSoftReference.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\obj\x64\Debug\RTSoftReference.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\obj\x64\Debug\RTSoftReference.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\obj\x64\Debug\RTSoftReference.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\obj\x64\Debug\RTSoftReference.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\C#\RTSoftReference\RTSoftReference\obj\x64\Debug\RTSoftReference.csprojResolveAssemblyReference.cache
