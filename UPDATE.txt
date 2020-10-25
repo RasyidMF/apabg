@@ -141,3 +141,6 @@ APaBG Version 2.6
 = Adding Auto Login with Coordinate
 = Adding Patch Growtopia (Allow you to open more than 1 without any app)
 = Daily Login now 0.10 coins, to get free premium access!
+=====================================================================
+APaBG Version 2.6.1
+= Adding Save and Load in Auto Login
