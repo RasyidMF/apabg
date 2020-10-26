@@ -144,3 +144,7 @@ APaBG Version 2.6
 =====================================================================
 APaBG Version 2.6.1
 = Adding Save and Load in Auto Login
+=====================================================================
+APaBG Version 2.6.2
+= Fix Coor.txt Bug when loaded coordinate
+= Fix Auto Login not responding
