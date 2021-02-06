@@ -148,3 +148,8 @@ APaBG Version 2.6.1
 APaBG Version 2.6.2
 = Fix Coor.txt Bug when loaded coordinate
 = Fix Auto Login not responding
+=====================================================================
+APaBG Version 2.6.3
+= Disabling AFK Bot and Bot Section
+= Optimize Code
+= Optimize Multiple GT
